@@ -5,6 +5,10 @@
 Olá! Sou Vinícius Alves Setório, tenho 19 anos e nasci em Petrolândia – PE.  Atualmente moro em Picos – PI. Concluí o ensino médio no IFPI, com o curso técnico em informática e estou cursando Análise e Desenvolvimento de Sistemas no IFPI. Sou apaixonado por tecnologia e busco aprender algo novo todos os dias.
 
 ---
+### 📫 Contato
+- ✉️ Email: viniciusasetorio@gmail.com 
+- 🔗 LinkedIn: https://www.linkedin.com/in/vinicius-alves-setorio/
+---
 
 ### 🛠️ Tecnologias & Ferramentas
 
@@ -76,17 +80,15 @@ Olá! Sou Vinícius Alves Setório, tenho 19 anos e nasci em Petrolândia – PE
 
 ### 📊 Estatísticas
 
-<img 
-    align="left" 
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ViniciuSetorio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&card_width=400"
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniciuSetorio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciuSetorio&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9&card_width=400"
+    alt="Top Languages" 
+  />
+</p>
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"  
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciuSetorio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/> 
+
