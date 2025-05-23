@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082">
+
 # Vinícius Alves 👨‍💻
 
 **`Estudante de Análise e Desemnvolvimento de Sistemas`**
@@ -79,16 +81,7 @@ Olá! Sou Vinícius Alves Setório, tenho 19 anos e nasci em Petrolândia – PE
 <br/>
 
 ### 📊 Estatísticas
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciuSetorio&theme=rose_pine)  | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciuSetorio&theme=rose_pine)  | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViniciuSetorio&theme=rose_pine)  |
+| :-: | :-: | :-: |
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ViniciuSetorio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&card_width=400"
-    alt="GitHub Stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciuSetorio&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9&card_width=400"
-    alt="Top Languages" 
-  />
-</p>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082&section=footer">
