@@ -63,7 +63,6 @@ Olá! Sou Vinícius Alves Setório, tenho 19 anos e nasci em Petrolândia – PE
 <br/>
 
 ### 📊 Estatísticas
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciuSetorio&theme=rose_pine)  | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciuSetorio&theme=rose_pine)  | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViniciuSetorio&theme=rose_pine)  |
-| :-: | :-: | :-: |
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciuSetorio&show_icons=true&theme=radical)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082&section=footer">
